@@ -34,30 +34,30 @@
 }
 
 /* Style untuk List/Produk Section */
-.produk {
+.products {
     padding: 50px 0;
 }
 
-.produk h2 {
+.products h2 {
     text-align: center;
     margin-bottom: 30px;
 }
 
-.produk .card {
+.products .card {
     margin-bottom: 20px;
 }
 
-.produk .card img {
+.products .card img {
     width: 100%;
     height: auto;
 }
 
-.produk .card-title {
+.products .card-title {
     font-size: 24px;
     margin-bottom: 10px;
 }
 
-.produk .card-text {
+.products .card-text {
     font-size: 16px;
 }
 
@@ -75,7 +75,7 @@
         font-size: 16px;
     }
 
-    .produk .card {
+    .products .card {
         width: 100%;
     }
 }
